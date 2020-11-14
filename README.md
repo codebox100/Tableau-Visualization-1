@@ -14,4 +14,4 @@ Get the data source from here: https://www.superdatascience.com/pages/tableau
 ![Office Supplies](https://github.com/codebox100/Tableau-Visualizations/blob/main/Sheet%201.png)
 
 
-Note: To view the original workbook, please instal Tableau Public, download the file named OfficeSupplies.twbx and open it.
+Note: To view the original workbook, please instal Tableau Public, download the file named OfficeSupplies.twbx and open it. It can also be viewed on my profile here: https://public.tableau.com/profile/syed.hasan4092#!/
